@@ -1,0 +1,6 @@
+﻿l_french:
+  RULE_ALLOW_AHISTORICAL:0 "Autoriser les priorités non historiques"
+  RULE_OPTION_HISTORICAL_ONLY:0 "Uniquement les priorités historiques"
+  RULE_ALLOW_HISTORICAL_ONLY_DESC:0 "Seules les priorités historiques seront affichées dans le jeu. Les priorités §Onon historiques seront désactivées§!."
+  RULE_OPTION_AHISTORICAL_ENABLED:0 "Tous les priorités"
+  RULE_ALLOW_AHISTORICAL_ENABLED_DESC:0 "Toutes les priorités seront affichées dans le jeu. Les priorités §Onon historiques seront activées§!. §RDes problèmes d'affichages dans les priorités peuvent survenir§!."

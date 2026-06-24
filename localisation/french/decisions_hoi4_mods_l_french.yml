@@ -1,0 +1,22 @@
+﻿l_french:
+  ROOT_add_spy:0 "Débloquer un nouvel agent"
+  ROOT_add_spy_2:0 "Débloquer un nouvel agent"
+  USA_annex_philippines:0 "Annexer les Philippines"
+  USA_annex_philippines_desc:0 "Annexer les Philippines si §Raucun joueur§! joue le pays"
+  FRA_annex_haiti:0 "Annexer Haïti"
+  FRA_annex_haiti_desc:0 "Annexer Haïti et §Orécupérer vos stocks de matériel§!."
+  GER_rom_annex_hungary:0 "Pas de hongrois ? Pas de problème"
+  GER_rom_annex_hungary_desc:0 "La roumanie annexera la Hongrie et recevra un esprit national si §Raucun joueur§! joue le pays"
+
+  # Mesures de guerre
+  ROOT_add_civilian_boats:0 "Réquisitionner des bateaux civils (coût en puissance de commandement)"
+  ROOT_add_civilian_boats_desc:0 "Réquisitionner des convoies"
+  ROOT_add_civilian_truck:0 "Réquisitionner des camions civils (coût en puissance de commandement)"
+  ROOT_add_civilian_truck_desc:0 "Réquisitionner des camions"
+  ROOT_civilian_propaganda:0 "Propagande civile"
+  ROOT_civilian_propaganda_desc:0 "Augmente le soutien à la guerre mais diminue la stabilité"
+  ROOT_war_propaganda:0 "Propagande de guerre"
+  ROOT_war_propaganda_desc:0 "Augmente le soutien à la guerre mais diminue la stabilité"
+
+  # Annexion - Mexique
+  MEX_annex_britain_honduras:0 "Annexer le Honduras britannique"
